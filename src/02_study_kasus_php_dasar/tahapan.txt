@@ -1,0 +1,17 @@
+1. Membuat Model
+2. Menentukan Business Logic
+3. Menentukan View
+4. Menampilkan TodoList
+5. Test Menampilkan Todolist
+6. Menambah Todolist
+7. Test Menambah Todolist
+8. menghapus todolist
+9. test menghapus todolist
+10. input data
+11. view menampilkan todolist
+12. test view menmpilkan todolist
+13. view mennambah todolist
+14. test view menambah todolist
+15. view menghapus todolist
+16. test view todolsit
+17. test seluruh aplikasi
